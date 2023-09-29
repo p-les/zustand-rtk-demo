@@ -1,0 +1,39 @@
+.main-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+
+.get-post-btn {
+	width: 400px;
+}
+
+.post-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 400px;
+}
+
+.post {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 1em;
+	padding: 0.5em;
+	background-color: #e253f2;
+	border-radius: 8px;
+	gap: 1em;
+}
+
+.card {
+	padding: 2em;
+	display: flex;
+	align-items: center;
+	margin: 1em;
+	padding: 0.5em;
+	gap: 1em;
+}

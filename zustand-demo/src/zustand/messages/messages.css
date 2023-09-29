@@ -1,0 +1,19 @@
+.message {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 1em;
+	padding: 0.5em;
+	background-color: #535bf2;
+	border-radius: 8px;
+	gap: 1em;
+}
+
+.card {
+	padding: 2em;
+	display: flex;
+	align-items: center;
+	margin: 1em;
+	padding: 0.5em;
+	gap: 1em;
+}
